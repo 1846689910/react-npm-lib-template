@@ -1,5 +1,5 @@
-import Demo, { Demo2 } from "./Demo";
+import Demo, { Demo2, MyButton } from "./Demo";
 
 export default Demo;
 
-export { Demo2 };
+export { Demo2, MyButton };
