@@ -25,7 +25,7 @@
     "url": "https://github.com/1846689910/react-npm-lib-template/issues"
   },
   "homepage": "https://github.com/1846689910/react-npm-lib-template#readme",
-  "pperDependencies": {
+  "peerDependencies": {
     "react": "^16.0.0"
   },
   "devDependencies": {
