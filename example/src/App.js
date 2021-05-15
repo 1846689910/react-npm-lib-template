@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Demo, { Demo2 } from "tested-lib";
+import Demo, { Demo2, MyButton } from "tested-lib";
 import "tested-lib/dist/index.css";
 
 
@@ -22,6 +22,7 @@ function App() {
         </a>
         <Demo />
         <Demo2 />
+        <MyButton/>
       </header>
     </div>
   );
